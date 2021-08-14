@@ -1,0 +1,48 @@
+td {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 12.3px;
+	line-height: 17px;
+	text-decoration: none;
+    }
+.cap14 {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 14px;
+}
+.cap15 {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 15px;
+}
+.cap17 {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 17px;
+	line-height: 21px;
+}	
+.cap22 {
+	font-family:  "Bookman Old Style", Georgia, Times, serif;
+	font-size: 22px;
+	line-height: 30px;
+}
+.cap26 {
+	font-size: 26px;
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	line-height: 27px;
+	}
+.cap33 {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 33px;
+	line-height: 33px;
+}
+.small10 {
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 10px;
+	line-height: 11px;
+}
+.refs {
+
+	font-family:  Bookman Old Style, Georgia, Times, serif;
+	font-size: 8px;
+	line-height: 9px;
+	position: fixed;
+	top: auto;
+	vertical-align: top;
+}
